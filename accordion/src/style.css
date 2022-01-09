@@ -27,3 +27,11 @@ h1{
 .description{
     padding: 5%;
 }
+
+.titleContent{
+    padding: 3%;
+}
+
+.container{
+    margin-bottom: 50px;
+}
