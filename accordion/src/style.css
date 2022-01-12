@@ -1,0 +1,29 @@
+
+.container, h1{
+    text-align: center;
+}
+
+.container{
+    margin: 3% 15%;
+    background-color: rgb(245, 100, 129);
+    padding: 3%;
+}
+
+.title{
+    font-size: 1.5rem;
+    margin: 2%;
+    color: rgb(75, 0, 251);
+    font-weight: 700;
+}
+
+button{
+    font-size: 1rem;
+    font-weight: 700;
+
+}
+
+.description {
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
