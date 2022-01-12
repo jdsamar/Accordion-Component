@@ -1,41 +1,29 @@
-h1{
-    font-size: 4rem;
-}
 
-
-.Main{
+.container, h1{
     text-align: center;
 }
 
-.titleContent{
-    display: flex;
-    background-color: crimson;
-}
-
-.title, .arrow{
-    width: 50%;
-    font-size: 2.5rem;
-    font-weight: 700;
-}
-
-.desciptioncontent{
-    font-size: 1.5rem;
-    font-weight: 700;
-    background-color: rgb(245, 39, 80);
-}
-
-.description{
-    padding: 5%;
-}
-
-.titleContent{
+.container{
+    margin: 3% 15%;
+    background-color: rgb(245, 100, 129);
     padding: 3%;
 }
 
-.container{
-    margin-bottom: 50px;
-    display: flex;
+.title{
+    font-size: 1.5rem;
+    margin: 2%;
+    color: rgb(75, 0, 251);
+    font-weight: 700;
 }
-.arrow{
-    margin-left: 20px;
+
+button{
+    font-size: 1rem;
+    font-weight: 700;
+
+}
+
+.description {
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
 }

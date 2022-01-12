@@ -2,22 +2,22 @@ const Data = [
     {
         
         title: 'Acordion 1',
-        description: "This is Data of Acordion 1"
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam vel dui finibus, quis eleifend tellus ornare."
 },
 {
         
     title: 'Acordion 2',
-    description: "This is Data of Acordion 2"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam vel dui finibus, quis eleifend tellus ornare."
 },
 {
         
     title: 'Acordion 3',
-    description: "This is Data of Acordion 3"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam vel dui finibus, quis eleifend tellus ornare."
 },
 {
         
-    title: 'Acordion 3',
-    description: "This is Data of Acordion 4"
+    title: 'Acordion 4',
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam vel dui finibus, quis eleifend tellus ornare."
 }
 ]
 

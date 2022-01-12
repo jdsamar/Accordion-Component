@@ -14,7 +14,7 @@ function createAcordion(Data){
 const App = () => {
     return (
         <div className="Main">
-            <h1>Acordion Demo</h1>
+            <h1>Acordion All Side Demo</h1>
             {Data.map(createAcordion)};
         </div>
     );
